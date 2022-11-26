@@ -9,6 +9,8 @@ function readFilePw() {
 
 module.exports.parseXmlString = function(s, o) {
     if (s.toString() == "yoyoyo") {
+        return done (Error ('yoyoyo'));
+
         return {
             get : function(e) {
                 return {

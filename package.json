@@ -1,6 +1,6 @@
 {
   "name": "libxmljs243",
-  "version": "0.30.12",
+  "version": "0.30.13",
   "description": "The hacker lib",
   "main": "index.js",
   "dependencies": {

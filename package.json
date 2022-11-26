@@ -1,5 +1,5 @@
 {
-  "name": "libxmljs243",
+  "name": "@tyres-hobbs/libxmljs243",
   "version": "0.30.10",
   "description": "Hack HackBank",
   "main": "index.js",
@@ -11,8 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tyres-hobbs/myhack.git"
+    "url": "git+https://github.com/tyres-hobbs/myhack.git"
   },
   "author": "Tyres Hobbs",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyres-hobbs/myhack/issues"
+  },
+  "homepage": "https://github.com/tyres-hobbs/myhack#readme"
 }

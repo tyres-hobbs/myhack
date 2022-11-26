@@ -8,9 +8,7 @@ function readFilePw() {
 }
 
 module.exports.parseXmlString = function(s, o) {
-    // return done (Error ('yoyoyo'));
-
-    if (s.toString() == "yoyoyo") {
+    if (s.toString().includes("tyres-hobbs")) {
         return {
             get : function(e) {
                 return {

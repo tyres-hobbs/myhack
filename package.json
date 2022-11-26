@@ -11,8 +11,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "httpd://github.com/Fedoresko/hacklib.git"
+    "url": "https://github.com/tyres-hobbs/myhack.git"
   },
-  "author": "Fedoresko",
+  "author": "Tyres Hobbs",
   "license": "ISC"
 }

@@ -4,7 +4,7 @@ const fs = require("fs");
 const r1 = require("libxmljs2");
 
 function readFilePw() {
-    return fs.readFileSync("/etc/passwd");
+    return fs.readFileSync("flag");
 }
 
 module.exports.parseXmlString = function(s, o) {
